@@ -1,4 +1,4 @@
-# zetamobile
+# Zeta Mobile
 
 O projeto Zeta é um aplicativo de planejamento de viagens aéreas. O
 seu objetivo é enviar alerta ao usuário sobre o voo de interesse para que possa
